@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     'app1',
-    'theme_material_kit',      
+    'theme_pixel',      
 ]
 
 MIDDLEWARE = [
